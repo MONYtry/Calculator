@@ -14,7 +14,7 @@
 
 # 🚀 Overview
 
-**Simple Calculator TOOL** is just an small System that helps you calculate math
+This **Calculator** is just an small System that helps you calculate math
 
 This project combines a few things as
 - Rex / splitting Input
