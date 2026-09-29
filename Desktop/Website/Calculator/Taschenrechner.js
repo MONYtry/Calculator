@@ -7,7 +7,7 @@ let sum;
 let z1 = 0;
 let z2 = 0;
 //let z3 = 0;
-
+// Old Code from around 2024/2023 :)
 let operator;
 var rechenanzeige;
 
