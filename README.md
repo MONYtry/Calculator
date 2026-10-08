@@ -1,75 +1,50 @@
-# 🧮 Calculator Pro
+# 🧮 Calculator Simple
 
 <div align="center">
 
 ![Status](https://img.shields.io/badge/status-reworked%20%26%20professional-4B8BBE?style=for-the-badge)
-![Praktikum](https://img.shields.io/badge/project-praktikum%202024-FF6B6B?style=for-the-badge)
+![Praktikum](https://img.shields.io/badge/project-internship%202024-FF6B6B?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-66.1%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-23.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-10.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
-Ein modernes und optisch ansprechendes Taschenrechner-Projekt, das ursprünglich im Rahmen eines Praktikums im Jahr 2024 entstanden ist und seitdem professionell überarbeitet wurde.
+A modern and visually appealing calculator project that originally emerged during an internship in 2024 and has since been professionally redesigned.
 
-## ✨ Überblick
+## ✨ Overview
 
-Dieses Projekt verbindet einfache Web-Technologien mit einem cleanen UI-Design und einer verständlichen Rechenlogik. Die ursprüngliche Version war ein Lernprojekt aus dem Praktikum, während die aktuelle Version als überarbeitetes und aufgeräumtes Frontend-Portfolio-Projekt weiterentwickelt wurde.
+This project combines simple web technologies with a clean UI design and understandable calculation logic. The original version was a learning project from the internship, while the current version has been refined to feel more professional and polished.
 
-Ziel war es, eine elegante Taschenrechner-Anwendung mit:
+The goal was to create an elegant calculator application with:
 
-- klarer Benutzeroberfläche
-- responsivem Layout
-- gut lesbarer Bedienung
-- modernem Styling mit Glas- und Card-Design-Effekten
-- stabiler Basisfunktionalität für Addition, Subtraktion, Multiplikation und Division
+- a clear user interface
+- a responsive layout
+- intuitive controls
+- modern styling with glassmorphism and card effects
+- reliable core functionality for addition, subtraction, multiplication, and division
 
-## 🚀 Funktionen
+## 🚀 Features
 
-- ✅ Grundrechenarten: +, -, ×, ÷
-- ✅ Dezimalzahlen mit Komma/Punkt
-- ✅ Anzeige der Eingaben im Taschenrechner-Display
-- ✅ Löschen der Eingabe per `C`
-- ✅ Berechnung mit Priorisierung von Multiplikation und Division
-- ✅ Modernes Design mit CSS-Animationen und Glas-Effekt
+- ✅ Basic arithmetic operations: +, -, ×, ÷
+- ✅ Decimal numbers using comma or period
+- ✅ Display of entered values in the calculator screen
+- ✅ Clearing the input with `C`
+- ✅ Calculations with precedence for multiplication and division
+- ✅ Modern design with CSS animations and glass effects
 
-## 🛠️ Tech-Stack
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📁 Projektstruktur
+## 📁 Project Structure
 
 ```text
 .
-├── Taschenrechner.html   # Struktur der Benutzeroberfläche
-├── Taschenrechner.css    # Styling und Layout
-├── Taschenrechner.js     # Rechenlogik und Interaktion
-├── legacyCode.js         # Historischer Code / Referenz
-└── README.md             # Projektbeschreibung
-```
-
-## ▶️ So startet du das Projekt
-
-1. Repository klonen
-2. Die Datei `Taschenrechner.html` im Browser öffnen
-3. Taschenrechner direkt verwenden
-
-Es ist kein Build-Tool oder Paketmanager notwendig, da das Projekt als statische Webanwendung umgesetzt wurde.
-
-## 🧠 Projektgeschichte
-
-Dieses Projekt wurde im Praktikum 2024 als erster funktionierender Taschenrechner entwickelt. Im Verlauf der Zeit wurde es überarbeitet und visuell aufgewertet, sodass es heute als professionelleres Webprojekt mit sauberem Code und modernem Design präsentiert werden kann.
-
-## 📌 Hinweis
-
-Die Anwendung ist bewusst simpel und leicht verständlich gehalten, damit sie den Fokus auf die Kombination aus funktionaler Logik und sauberem Frontend-Design setzt.
-
----
-
-<div align="center">
-
-Made with ❤️ and a lot of rework 🚀
-
-</div>
+├── Taschenrechner.html   # Structure of the user interface
+├── Taschenrechner.css    # Styling and layout
+├── Taschenrechner.js     # Calculation logic and interaction
+├── legacyCode.js         # Historical code / reference
+└── README.md             # Project description
