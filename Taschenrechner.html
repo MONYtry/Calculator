@@ -1,0 +1,36 @@
+<head>
+<link rel="stylesheet" href="Taschenrechner.css">
+</head>
+
+<body>
+	<h1>Calculator</h1>
+	<div class="BackgroundGlass">
+		<div class="rechner">
+			<input type="text" id="Display" class="Display"> </input>
+			<div class="keys"> 
+				<button onclick="numadd(1)"> 1 </button>
+				<button onclick="numadd(2)"> 2 </button>
+				<button onclick="numadd(3)"> 3 </button>
+				
+				<button onclick="operatoradd('+')" class="op"> + </button>	
+				<button onclick="numadd(4)"> 4 </button>
+				<button onclick="numadd(5)"> 5 </button>
+				<button onclick="numadd(6)"> 6 </button>
+				
+				<button onclick="operatoradd('-')" class="op"> - </button>
+				<button onclick="numadd(7)"> 7 </button>
+				<button onclick="numadd(8)"> 8 </button>
+				<button onclick="numadd(9)"> 9 </button>
+				<button onclick="operatoradd('/')" class="op"> / </button>	
+				
+				<button onclick="numadd(',')">. </button>	
+				<button onclick="numadd(0)" class="zero"> 0 </button>
+				<button onclick="clearDisplay()" class="clear"> C </button>
+				
+				<button onclick="operatoradd('*')" class="op"> X </button>	
+				<button onclick="calculate()" class="equal"> = </button>	
+			</div>
+		</div>
+	</div>
+	<script src="Taschenrechner.js"></script>
+</body>
